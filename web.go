@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
   "bufio"
-  "code.google.com/p/goweb/goweb"
+  "github.com/stretchr/goweb"
   "github.com/jmhodges/levigo"
 )
 
